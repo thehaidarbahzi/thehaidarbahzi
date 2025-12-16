@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="anim.gif" alt="Haidar's Mascot" width="180"/>
+  <a href="https://youtu.be/jgsmtVkNRgI" target="_blank">
+    <img src="anim.gif" alt="Cyrax Insaniquarium Deluxe" width="180"/>
+  </a>
   
   # Hi there, I'm Haidar Bahzi
   ### Undergraduate Computer Science
