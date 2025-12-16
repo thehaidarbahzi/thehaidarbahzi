@@ -2,7 +2,7 @@
   <img src="anim.gif" alt="Haidar's Mascot" width="180"/>
   
   # Hi there, I'm Haidar Bahzi
-  ### Undergraduate Computer Science | Backend Dev with Rust 🦀
+  ### Undergraduate Computer Science
 </div>
 
 <br/>
