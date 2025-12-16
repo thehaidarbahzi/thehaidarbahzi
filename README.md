@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/mascot.png" alt="Haidar's Mascot" width="280"/>
+  <img src="anim.gif" alt="Haidar's Mascot" width="280"/>
   
   # Hi there, I'm Haidar Bahzi 👋
   ### Undergraduate Computer Science | Backend Dev with Rust 🦀
