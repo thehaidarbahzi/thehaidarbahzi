@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <img src="./img/mascot.png" alt="Haidar's Mascot" width="280"/>
+  
+  # Hi there, I'm Haidar Bahzi 👋
+  ### Undergraduate Computer Science | Backend Dev with Rust 🦀
+</div>
 
-<!--
-**thehaidarbahzi/thehaidarbahzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- 🦀 **Backend Development** - Building scalable and efficient server-side applications
+- 📱 **App Development** - Creating full-stack applications
+- ⚡ **Rust Enthusiast** - Leveraging Rust's performance and safety
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+```
+🦀 Rust | Backend Development | API Design | System Programming
+```
+
+## 🌱 Currently Learning
+Always exploring new technologies and improving my skills in backend architecture and application development.
+
+## 📫 Connect With Me
+- 🎥 YouTube: [@thehaidarbahzi](https://youtube.com/@thehaidarbahzi)
+- 📸 Instagram: [@thehaidarbahzi](https://instagram.com/thehaidarbahzi)
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![Haidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehaidarbahzi&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehaidarbahzi&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehaidarbahzi&layout=compact&theme=radical)
+
+</div>
+
+---
+<div align="center">
+  ⭐️ From <a href="https://github.com/thehaidarbahzi">thehaidarbahzi</a>
+</div>
