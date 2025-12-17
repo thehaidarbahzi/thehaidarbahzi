@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://youtu.be/jgsmtVkNRgI" target="_blank">
-    <img src="anim.gif" alt="Cyrax Insaniquarium Deluxe" width="180"/>
+    <img src="cyrax.gif" alt="Cyrax Insaniquarium Deluxe" width="180"/>
   </a>
   
   # Hi there, I'm Haidar Bahzi
